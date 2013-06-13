@@ -1,0 +1,52 @@
+.button{
+    border: 1px solid;
+    padding: 2px;
+}
+
+.button.menu{
+    width: 140px;
+    height: 20px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    margin: 0px;
+    padding: 0px;
+}
+
+.button.image{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.button.absolute{
+    position: absolute;
+}
+
+.button.active{
+    background: green;
+}
+.button.neighbor{
+    background: yellow;
+}
+
+body,
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.content-padding{
+    padding: 15px;
+}

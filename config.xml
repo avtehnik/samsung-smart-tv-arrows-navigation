@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget> 
+	<ThumbIcon></ThumbIcon> 
+	<BigThumbIcon></BigThumbIcon> 
+    <ListIcon></ListIcon>
+    <BigListIcon></BigListIcon>
+
+	<category></category> 
+	<autoUpdate>n</autoUpdate>
+	
+	<ver>1.09</ver>
+	<mgrver>1.000</mgrver>
+	
+	<previewjs></previewjs>
+	<cpname>Samsung</cpname>
+	<network>n</network>
+	<cplogo></cplogo>
+	<preIcon></preIcon>
+	<cpauthjs></cpauthjs>
+	<login>n</login>
+	<type>user</type>
+
+	<fullwidget>y</fullwidget>
+	<srcctl>y</srcctl>
+	<ticker>n</ticker>
+	<childlock>n</childlock>
+	<audiomute>n</audiomute>
+	<videomute>n</videomute>
+	<dcont>n</dcont>
+	<movie>n</movie>
+	
+	<width>960</width>
+	<height>540</height>
+	
+	<widgetname>navigation</widgetname>
+	<description>navigation</description>
+
+	<author> 
+		<name>Samsung Electronics Co. Ltd.</name> 
+		<email></email> 
+		<link>http://www.sec.co.kr/</link> 
+		<organization>Samsung Electronics Co. Ltd.</organization> 
+	</author>
+</widget>
